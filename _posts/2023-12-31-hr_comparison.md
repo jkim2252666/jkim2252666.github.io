@@ -26,6 +26,6 @@ with(a,boxplot(HR~name,xlab="Hitter"))
 
 
     
-![label](https://jkim2252666.github.io/assets/images/hrlabel.png)
+
     
 
