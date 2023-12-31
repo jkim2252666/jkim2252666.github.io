@@ -14,7 +14,7 @@ a<-subset(Batting,playerID=="rodrial01"|playerID=="pujolal01"|playerID=="mcgwima
 with(a,boxplot(HR~playerID))
 ```
     
-![png](output_1_0.png)
+![png](/output_1_0.png)
     
 
 ```R
