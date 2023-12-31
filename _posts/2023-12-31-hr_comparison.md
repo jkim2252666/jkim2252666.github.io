@@ -22,6 +22,7 @@ a$name<-with(a, ifelse(playerID=="rodrial01","Rodriguez",
                        ifelse(playerID=="pujolal01","Pujols","McGuire")))
 with(a,boxplot(HR~name,xlab="Hitter"))
 ```
+![image](https://github.com/jkim2252666/statistics_with_mlb/assets/67861374/64a55371-2293-4bed-a737-a4912413fe2e)
 
 
     
