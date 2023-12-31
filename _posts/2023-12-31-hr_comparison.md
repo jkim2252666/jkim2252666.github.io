@@ -1,7 +1,7 @@
 
 ----
 layout: single
-title: HR counts among three legendary hitters
+title: "HR counts among three legendary hitters"
 ----
 
 ```R
