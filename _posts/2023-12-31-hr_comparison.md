@@ -1,3 +1,8 @@
+```
+layout: single
+title: "HR counts among three legendary hitters"
+```
+
 ```R
 #If Lahman library is the first time, install the package.
 #install.packages("Lahman")
