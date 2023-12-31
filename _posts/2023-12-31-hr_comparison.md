@@ -14,7 +14,8 @@ a<-subset(Batting,playerID=="rodrial01"|playerID=="pujolal01"|playerID=="mcgwima
 with(a,boxplot(HR~playerID))
 ```
     
-![no label](https://jkim2252666.github.io/assets/images/hrnolabel.png)
+![image](https://github.com/jkim2252666/statistics_with_mlb/assets/67861374/f1caae62-7dc6-4a24-a7ca-02b15cf670c6)
+
     
 
 ```R
