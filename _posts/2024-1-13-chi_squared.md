@@ -1,10 +1,3 @@
----- 
-
-layout: single 
-
-title: "Proportion of two groups: Chi-squared"  
-
-----
 
 
 Here are the two proposals to include in a marketing campaign:
