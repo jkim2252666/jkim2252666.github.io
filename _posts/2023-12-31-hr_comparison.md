@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Homeruns of three legendary hitters"
+title:  "Boxplots for comparing homeruns"
 ---
 
 ```R
