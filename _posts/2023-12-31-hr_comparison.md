@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "HR comparison among three legendary hitters"
+title:  "Homeruns of three legendary hitters"
 ---
 
 ```R
