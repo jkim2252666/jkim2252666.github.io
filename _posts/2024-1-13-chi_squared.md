@@ -2,13 +2,9 @@
 
 Here are the two proposals to include in a marketing campaign:
 
-Design A
+Design A                                                               Design B
 
 ![image](https://github.com/jkim2252666/text_analysis/assets/67861374/eb1ce4bf-3e78-4cee-b9c0-28180db2430e)
-
-Design B
-
-
 
 Assumes that two proposed images were exposed to two randomly assigned groups through an SNS. Below is the test result.
 
