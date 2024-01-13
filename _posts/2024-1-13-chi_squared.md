@@ -8,7 +8,7 @@ Design A
 
 Design B
 
-![image](https://github.com/jkim2252666/text_analysis/assets/67861374/9ede310b-0d03-46af-8ab7-4b13c1a7f96d)
+
 
 Assumes that two proposed images were exposed to two randomly assigned groups through an SNS. Below is the test result.
 
