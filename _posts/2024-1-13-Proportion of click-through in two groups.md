@@ -1,6 +1,6 @@
 
 
-Here are the two proposals to include in a marketing campaign. The illustration on the left is Design A and the other is Design B. 
+Here are the two proposed images to include in a marketing campaign. The illustration on the left is Design A and the other is Design B. 
 
 ![image](https://github.com/jkim2252666/text_analysis/assets/67861374/eb1ce4bf-3e78-4cee-b9c0-28180db2430e)
 
