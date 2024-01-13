@@ -1,7 +1,10 @@
 ---
 layout: single
-title:  "Boxplots for comparing homeruns"
+title:  "Boxplots for Comparing Homeruns"
 ---
+
+The home run records set by the MLB show that the early 2000s were an era of power hitters. It's also worth noting the outliers in the boxplot. 
+
 
 ```R
 #If Lahman library is the first time, install the package.
