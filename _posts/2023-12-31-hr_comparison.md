@@ -3,7 +3,7 @@ layout: single
 title:  "Boxplots for Comparing Homeruns"
 ---
 
-The home run records set by the MLB show that the early 2000s were an era of power hitters. It's also worth noting the outliers in the boxplot. 
+The home run records set by the MLB indicate the early 2000s were an era of power hitters. It's also worth noting the outliers in the boxplot. 
 
 
 ```R
