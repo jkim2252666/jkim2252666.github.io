@@ -1,18 +1,28 @@
-```R
-#Here are the two proposals to include in a marketing campaign:
-#Design A
+---- 
+
+layout: single 
+
+title: "Proportion of two groups: Chi-squared"  
+
+----
+
+
+Here are the two proposals to include in a marketing campaign:
+Design A
 ![image](https://github.com/jkim2252666/text_analysis/assets/67861374/eb1ce4bf-3e78-4cee-b9c0-28180db2430e)
 
-#Design B
+Design B
 ![image](https://github.com/jkim2252666/text_analysis/assets/67861374/9ede310b-0d03-46af-8ab7-4b13c1a7f96d)
 
-#Assumes that two proposed images were exposed to two randomly assigned groups through an SNS. Below is the test result.
+Assumes that two proposed images were exposed to two randomly assigned groups through an SNS. Below is the test result.
 
-#1020 users were exposed to Design A and 218 clicked it. The click-through rate is 21.37%.
-#1010 users were exposed to Design B and 150 clicked it. The click-through rate is 14.85%.
+1020 users were exposed to Design A and 218 clicked it. The click-through rate is 21.37%.
+1010 users were exposed to Design B and 150 clicked it. The click-through rate is 14.85%.
 
-#Can I claim that the click-through rate for design A is different from the rate for design B?
-```
+Can I claim that the click-through rate for design A is different from the rate for design B?
+
+
+
 
 ```R
 # comparison of the two groups described in the case
