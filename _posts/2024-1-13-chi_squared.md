@@ -1,9 +1,5 @@
 ```R
-# comparison of the two groups described in the case
-prop.test(x = c(218,150), n = c(1020,1010),conf.level=0.95)
-```
-
-Here are the two proposals to include in a marketing campaign:
+#Here are the two proposals to include in a marketing campaign:
 Design A
 ![image](https://github.com/jkim2252666/text_analysis/assets/67861374/eb1ce4bf-3e78-4cee-b9c0-28180db2430e)
 
@@ -16,6 +12,12 @@ Assumes that two proposed images were exposed to two randomly assigned groups th
 1010 users were exposed to Design B and 150 clicked it. The click-through rate is 14.85%.
 
 Can I claim that the click-through rate for design A is different from the rate for design B?
+```
+
+```R
+# comparison of the two groups described in the case
+prop.test(x = c(218,150), n = c(1020,1010),conf.level=0.95)
+```
 
     
     	2-sample test for equality of proportions with continuity correction
