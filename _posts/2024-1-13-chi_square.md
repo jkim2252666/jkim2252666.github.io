@@ -1,4 +1,7 @@
-
+---
+layout: single
+title:  "Click-through rate in two groups "
+---
 
 Here are the two proposed images to include in a marketing campaign. The illustration on the left is Design A and the other is Design B. 
 
